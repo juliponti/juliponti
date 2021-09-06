@@ -1,7 +1,7 @@
 <h1 align="center">⚔ Hello there, <s>General Kenobi</s> I'm Julieta 👋🏽 </h1>
 <h3 align="center">I'm an Argentinian trainee starting her way as a frontend developer</h3>
 
-- 📚 I’m taking classes on [CourseIt](https://courseit.io/) but also I've been acquiring knowledge from many different sites and sources as well, such as [Rocketcode](https://www.rocketcode.com.ar/) & Youtube. 
+- 📚 I’m taking classes on [CourseIt](https://courseit.io/) but also I've been acquiring knowledge by myself from many different sites and sources such as [Rocketcode](https://www.rocketcode.com.ar/) & Youtube. 
 
 - 🌱 I’m currently learning **React.js** 
 
