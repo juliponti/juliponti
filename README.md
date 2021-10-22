@@ -1,5 +1,5 @@
 <h1 align="center"> Hello there, I'm Julieta 👋🏽 </h1>
-<h3 align="center">I'm from Argentina starting my way as a frontend developer</h3>
+<h3 align="center">I'm an Argentinian trainee frontend developer</h3>
 
 - 📚 I’m taking classes on [CourseIt](https://courseit.io/) but also I've been acquiring knowledge by myself from many different sites and sources such as [Rocketcode](https://www.rocketcode.com.ar/) & Youtube. 
 
