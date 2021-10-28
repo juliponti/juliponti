@@ -3,11 +3,11 @@
 
 - 📚 I’m taking classes on [CourseIt](https://courseit.io/) but also I've been acquiring knowledge by myself from many different sites and sources such as [Rocketcode](https://www.rocketcode.com.ar/) & Youtube. 
 
-- 🌱 I’m currently learning **React.js** 
+- 🌱 I’m currently learning **React.js and Bootstrap** 
 
-- 🔭 I’m currently working on **projects to practice CSS and Javascript**
+- 🔭 I’m currently working on **projects to practice React.js**
 
-- 👨‍💻 Soon my projects will be available at [my portfolio](https://juliponti.github.io/portfolio/)
+- 👨‍💻 Soon my projects will be available at my portfolio
 
 - 📫 How to reach me **julieta.pontino@gmail.com**
 
