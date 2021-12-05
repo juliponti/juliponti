@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **projects to practice React.js**
 
-- 👨‍💻 Soon my projects will be available at my portfolio
+- 👨‍💻 My projects are available at my [portfolio](https://juliponti.github.io/portfolio/)
 
 - 📫 How to reach me **julieta.pontino@gmail.com**
 
