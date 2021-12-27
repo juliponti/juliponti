@@ -7,7 +7,7 @@
 
 - 👯 I’m taking classes on [CourseIt](https://courseit.io/)
 
-- 👨‍💻 All of my projects are available at [https://portfoliojulietapontino.000webhostapp.com/](https://portfoliojulietapontino.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://juliponti.github.io/portfolio/)
 
 - 🚀 My next goal is to learn **TypeScript**
 
