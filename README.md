@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tailwind**
 
-- 👯 I’m taking classes on [CourseIt](https://courseit.io/)
+- 👯 I’m taking classes on [ConoSurTech](https://yoquieroprogramar.conosur.tech/)
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://juliponti.github.io/portfolio/)
 
