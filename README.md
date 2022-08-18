@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, <strike>General Kenobi</strike> Julieta here 👋🏼</h1>
-<h3 align="center">I'm a trainee/jr Frontend Developer from Argentina 🔵⚪ </h3>
+<h3 align="center">I'm a Junior Frontend Developer from Argentina 🔵⚪ </h3>
 
 - 🔭 I’m currently working on [My Little House project](https://github.com/lausoffici/my-little-house)
 
