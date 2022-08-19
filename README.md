@@ -1,15 +1,13 @@
 <h1 align="center">Hello there, <strike>General Kenobi</strike> Julieta here 👋🏼</h1>
 <h3 align="center">I'm a Junior Frontend Developer from Argentina 🔵⚪ </h3>
 
-- 🔭 I’m currently working on [My Little House project](https://github.com/lausoffici/my-little-house)
+- 🌱 I’m currently working on a React internship in **Altimetrik**
 
-- 🌱 I’m currently learning **TypeScript**
+- 👯 I’m taking classes on [FrontendMasters](https://frontendmasters.com/)
 
-- 👯 I’m taking classes on [CourseIt](https://courseit.io/)
+- 👨‍💻 Some of my projects are available [here](https://juliponti.github.io/portfolio/)
 
-- 👨‍💻 All of my projects are available at [here](https://juliponti.github.io/portfolio/)
-
-- 🚀 My next goal is to learn **MongoDB and Mongoose**
+- 🚀 My next goal is to learn **TypeScript**
 
 - 📫 How to reach me **julieta.pontino@gmail.com**
 
