@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, Julieta here 👋🏼</h1>
 <h3 align="center">I'm a Frontend Developer from Argentina 🔵⚪ </h3>
 
-- 🌱 I’m currently working for **Altimetrik**
+- 🌱 I’m currently working on my portfolio
 
 - 👯 I’m taking classes on [FrontendMasters](https://frontendmasters.com/)
 
