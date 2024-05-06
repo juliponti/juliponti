@@ -1,11 +1,11 @@
 <h1 align="center">Hello there, Julieta here 👋🏼</h1>
 <h3 align="center">I'm a Frontend Developer from Argentina 🔵⚪ </h3>
 
-- 🌱 I’m currently working on my portfolio
+- 🌱 I’m currently working freelance
 
 - 👯 I’m taking classes on [FrontendMasters](https://frontendmasters.com/)
 
-- 👨‍💻 Some of my projects are available [here](https://juliponti.github.io/portfolio/)
+- 👨‍💻 Some of my projects are available [here](https://www.julietapontino.com.ar/)
 
 - 🚀 My next goal is to learn **Redux**
 
