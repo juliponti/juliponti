@@ -3,11 +3,7 @@
 
 - 🌱 I’m currently working freelance
 
-- 👯 I’m taking classes on [FrontendMasters](https://frontendmasters.com/)
-
-- 👨‍💻 Some of my projects are available [here](https://www.julietapontino.com.ar/)
-
-- 🚀 My next goal is to learn **Redux**
+- 👨‍💻 Some of my projects are available [here](https://www.julietapontino.com.ar/projects/recents)
 
 - 📫 How to reach me **julieta.pontino@gmail.com**
 
